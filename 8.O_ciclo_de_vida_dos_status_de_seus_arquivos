@@ -1,0 +1,3 @@
+git status #Imprime status dos arqruivos
+
+git add "Nome do Arquivo" #Adiciona o arquivo no repositório

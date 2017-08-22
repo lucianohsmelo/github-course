@@ -1,0 +1,4 @@
+cd /"Pasta do repositório" 
+git init
+cd .git/ #Arquivos utilziados pelo git
+cd .. #Voltar para pasta do repositório
