@@ -1,0 +1,11 @@
+git checkout "Nome do Arquivo" #Retorna na ultima versão do arquivo
+
+git reset HEAD "Nome do Arquivo" #Retorna arquivo antes do git add
+
+git reset --soft "rash" #Exclui commit mas mantém auterações
+
+git reset --mixed "rash" #Exclui commit é 
+
+git reset --hard "rash" #Exclui commit e arquivos
+
+
