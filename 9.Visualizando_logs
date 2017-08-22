@@ -1,0 +1,15 @@
+git log #visualiza log do git
+
+git log --decorate #Mais informações
+
+git log --author="Nome do autor" #Filtro pelo nome do autor
+
+git log shortlog #Mais informações
+
+git log shortlog -sn
+
+git log --graph
+
+git show "Nome da rash" #Mostra log pelo nome da rash
+
+

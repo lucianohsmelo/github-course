@@ -1,0 +1,7 @@
+#Ver mudança antes de fazer o commit
+
+git diff #Mostra modificações dos arquivos
+
+git diff --name-only #Mostra nome dos arquivos moificados
+
+
