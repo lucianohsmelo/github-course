@@ -1,0 +1,5 @@
+git remote add "nome (defaut=origin" "endereço(SSH)"
+
+git remote #Mostra repositório remoto
+
+git push -u "nome" master #Envia arquivos para repositório remoto
